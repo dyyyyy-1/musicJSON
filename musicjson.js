@@ -12,11 +12,6 @@
       "version": "0.0.0"
     },
     {
-      "name": "GD音乐台",
-      "url": "https://music.gdstudio.xyz",
-      "version": "0.0.0"
-    },
-    {
       "name": "GitCode",
       "url": "https://raw.githubusercontent.com/ThomasBy2025/musicfree/refs/heads/main/plugins/git.js",
       "version": "0.0.0"
